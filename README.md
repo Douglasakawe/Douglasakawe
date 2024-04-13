@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **No working.**
 
-- 🌱 I’m currently learning **Automation InfraCloud, Iac, CI/CDSecurity and Containers.**
+- 🌱 I’m currently learning **Automation InfraCloud, Iac, CI/CD, Security and Containers.**
 
 - 🗃️ All of my projects are available at here bellow.
 
