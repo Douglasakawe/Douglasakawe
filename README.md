@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Automation InfraCloud, Iac, CI/CD, Security and Containers.**
 
-- 🗃️ All of my projects are available at [here bellow.](here bellow.)
+- 🗃️ All of my projects are available at here bellow.
 
 - 💬 Ask me about **Containers, Security, InfraCloud, Cloud Providers.**
 
 - 📫 How to reach me **douglasyakawe@proton.me**
 
-- 😃 About me [I like to play sports in my spare time, study and cook.](I like to play sports in my spare time, study and cook.)
+- 😃 About me;  I like to play sports in my spare time, study and cook.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
